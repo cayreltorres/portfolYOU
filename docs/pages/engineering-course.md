@@ -1,5 +1,6 @@
----
-layout: default title: Page Name
-permalink: /page_permalink/ (the output path for the page)
-weight: 2 (the order of the page in the navigation bar)
----
+ ---
+ layout: default
+ title: Engineering Course
+ permalink: /engineering-course/
+ weight: 2 
+ ---
